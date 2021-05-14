@@ -1,0 +1,2 @@
+INSERT INTO USUARIO(nome, usergithub, senha) VALUES('Sarah', 'SarahBrandao', '$2a$10$Z7.skqKax.6T3GVv1s9mbeVN/PK/UtWaZTVP981uIaEuKFtJ6V4L.');
+INSERT INTO USUARIO(nome, usergithub, senha) VALUES('Carol', 'carolfons', '$2a$10$Z7.skqKax.6T3GVv1s9mbeVN/PK/UtWaZTVP981uIaEuKFtJ6V4L.');
