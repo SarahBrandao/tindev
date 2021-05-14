@@ -18,7 +18,6 @@ import com.soft.tindev.repository.UsuarioRepository;
 
 @EnableWebSecurity
 @Configuration
-@Profile(value = {"dev", "test"})
 public class SecurityConfigurations extends WebSecurityConfigurerAdapter{
 	
 	@Autowired
