@@ -15,13 +15,12 @@
 </ul>
 
 
-:bulb: API Requirements
------
-- Comunicação com a API externa do GitHub;
-- Persistência de dados num BD relacional (h2);
-- Apresentar alguns testes unitários e funcionais;
-- Segurança com JWT e autenticação;
-- Cache.
+<h3> :bulb: API Requirements </h3>
+ <li> Comunicação com a API externa do GitHub;  </li>
+ <li>Persistência de dados num BD relacional (h2); </li>
+ <li>Apresentar alguns testes unitários e funcionais; </li>
+ <li>Segurança com JWT e autenticação; </li>
+ <li>Cache. </li>
 
 
 
